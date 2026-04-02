@@ -1,43 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ignas
 
-I'm a developer interested in backend systems, data, and machine learning.
+I'm an Information Systems Engineering student focused on backend development and real-world software systems.
 
-## Featured Project
+My main interests are:
+- ASP.NET Core backend development
+- PostgreSQL and Entity Framework Core
+- Layered architecture and domain-focused design
+- Service integration and workflow reliability
 
-### Fraud Detection System
-A project exploring fraud detection using:
+## Featured project
+- [Fraud Detection System](https://github.com/Boljerr/fraud-detection-system)  
+  Two-service backend for transaction ingestion and fraud risk scoring using ASP.NET Core, PostgreSQL, and FastAPI.
 
-- ASP.NET Core API
-- Python FastAPI scoring service
-- PostgreSQL
-- rule-based + Isolation Forest anomaly detection
-
-Repository:
-https://github.com/Boljerr/fraud-detection-system
-
-## Technologies
-
-- .NET / ASP.NET Core
-- Python
-- PostgreSQL
-- scikit-learn
-
-## Currently Learning
-
-- backend architecture
-- machine learning
-- data processing
-<!--
-**Boljerr/Boljerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other experience
+- Backend development on a private AI-assisted learning platform project
